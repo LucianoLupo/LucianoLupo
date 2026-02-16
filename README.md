@@ -35,10 +35,6 @@ Agent-native infinite canvas built with Tauri + Leptos (Rust/WASM).
 ### [Noir Playground](https://github.com/LucianoLupo/noir-playground-001)
 Experiments with the Noir zero-knowledge proof language.
 
-## 📊 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoLupo&show_icons=true&theme=dark&hide_border=true)
-
 ## 🔗 Connect
 
 - Twitter: [@lupo0x](https://twitter.com/lupo0x)
