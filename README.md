@@ -1,21 +1,21 @@
 # Hey, I'm Luciano 👋
 
-Senior software engineer focused on **zero-knowledge proofs**, **smart contract security**, and **privacy-preserving protocols**.
+Senior software engineer currently learning about **zero-knowledge proofs**, **smart contract security**, and **privacy-preserving protocols**.
 
-## 🔭 Current Focus
+## 🔭 What I'm Exploring
 
-- Contributing to [TLSNotary](https://tlsnotary.org/) — cryptographic proof for web data
-- Building ZK applications with Noir, Semaphore, and custom circuits
-- Exploring Move language for secure DeFi protocols on Aptos
-- Building AI agents for Web3 automation
+- [TLSNotary](https://tlsnotary.org/) — cryptographic proof for web data
+- ZK applications with Noir, Semaphore, and custom circuits
+- Move language for secure DeFi protocols on Aptos
+- AI agents for Web3 automation
 
 ## 🛠️ Tech Stack
 
 **Languages:** Rust, TypeScript, Solidity, Move, Noir, Python
-**Specializations:** ZK-SNARKs, Smart Contract Auditing, Multi-Party Computation
+**Interests:** ZK-SNARKs, Smart Contract Security, Multi-Party Computation
 **Tools:** Foundry, Hardhat, ZK toolchains, TLS protocol implementations
 
-## 📚 Featured Projects
+## 📚 Projects
 
 ### [TLSNotary Chrome Extension](https://github.com/LucianoLupo/lupo-verify-extension)
 Privacy-preserving web data verification using MPC and ZK proofs.
