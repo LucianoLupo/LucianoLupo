@@ -11,7 +11,7 @@ Senior software engineer currently learning about **zero-knowledge proofs**, **s
 
 ## 🛠️ Tech Stack
 
-**Languages:** Rust, TypeScript, Solidity, Move, Noir, Python
+**Languages:** TypeScript, Python, Solidity, Move, Noir, Rust
 **Interests:** ZK-SNARKs, Smart Contract Security, Multi-Party Computation
 **Tools:** Foundry, Hardhat, ZK toolchains, TLS protocol implementations
 
