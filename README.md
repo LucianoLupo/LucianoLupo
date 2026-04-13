@@ -1,41 +1,34 @@
 # Hey, I'm Luciano 👋
 
-Senior software engineer currently learning about **zero-knowledge proofs**, **smart contract security**, and **privacy-preserving protocols**.
+Software engineer building **AI agent infrastructure** and **developer tooling**.
 
-## 🔭 What I'm Exploring
+## 🔧 What I'm Building
 
-- [TLSNotary](https://tlsnotary.org/) — cryptographic proof for web data
-- ZK applications with Noir, Semaphore, and custom circuits
-- Move language for secure DeFi protocols on Aptos
-- AI agents for Web3 automation
+### AI Agent Tooling
+
+- **[Agent Orchestrator](https://github.com/LucianoLupo/agent-orchestrator-public)** — Zero-dependency CLI that creates, runs, and evolves autonomous Claude Code agents. Pipelines, supervisor gates, genetic optimization.
+
+- **[Research Orchestrator](https://github.com/LucianoLupo/research-orchestrator)** — Parallel deep research with multiple Claude instances, shared memory, and iterative refinement.
+
+- **[ArenaBot Skills](https://github.com/LucianoLupo/arenabot-skills)** — Claude Code skill for building AI agents that compete on ArenaBot.io.
+
+### Web3 & Security
+
+- **[Rug Scanner](https://github.com/LucianoLupo/rug-scanner)** — Smart contract security scanner for detecting rug pulls and vulnerabilities.
+
+- **[XO Connect Skill](https://github.com/LucianoLupo/xo-connect-skill)** — Claude Code skill for EIP-1193 wallet provider integration.
+
+- **[AutoStack](https://github.com/LucianoLupo/crypto-vendimia-hackathon)** — WhatsApp DCA + Auto-Yield bot on Rootstock.
+
+### Experiments
+
+- **[Infinite Brainstorm](https://github.com/LucianoLupo/infinite-brainstorm)** — Agent-native infinite canvas built with Tauri + Leptos (Rust/WASM).
 
 ## 🛠️ Tech Stack
 
-**Languages:** TypeScript, Python, Solidity, Move, Noir, Rust
-
-**Interests:** ZK-SNARKs, Smart Contract Security, Multi-Party Computation
-
-**Tools:** Foundry, Hardhat, ZK toolchains, TLS protocol implementations
-
-## 📚 Projects
-
-### [TLSNotary Chrome Extension](https://github.com/LucianoLupo/lupo-verify-extension)
-Privacy-preserving web data verification using MPC and ZK proofs.
-
-### [ZK Voting with Semaphore](https://github.com/LucianoLupo/zk-voting-semaphore-001)
-Anonymous voting using Ethereum's Semaphore protocol for ZK group membership proofs.
-
-### [ZK Twitter Verifier](https://github.com/LucianoLupo/zk-twitter-verifier-002)
-Cryptographic verification of Twitter data without revealing private information.
-
-### [Move Options Protocol](https://github.com/LucianoLupo/options_protocol)
-DeFi options trading protocol built in Move for the Aptos ecosystem.
-
-### [Infinite Brainstorm](https://github.com/LucianoLupo/infinite-brainstorm)
-Agent-native infinite canvas built with Tauri + Leptos (Rust/WASM).
-
-### [Noir Playground](https://github.com/LucianoLupo/noir-playground-001)
-Experiments with the Noir zero-knowledge proof language.
+**Primary:** TypeScript, JavaScript, Solidity  
+**Learning:** Rust, Move, Noir  
+**Focus:** AI agents, Claude Code tooling, smart contract security
 
 ## 🔗 Connect
 
