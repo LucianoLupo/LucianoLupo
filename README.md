@@ -1,3 +1,5 @@
+<a href="https://www.lucianolupo.com"><img src="./banner.svg" alt="lupo0x: AI agent infra + dev tooling | lucianolupo.com" width="100%"></a>
+
 # Hey, I'm Luciano 👋
 
 Software engineer building **AI agent infrastructure** and **developer tooling**.
