@@ -1,4 +1,4 @@
-<a href="https://www.lucianolupo.com"><img src="./banner.svg" alt="lupo0x: AI agent infra + dev tooling | lucianolupo.com" width="100%"></a>
+<a href="https://buidlers.tech"><img src="./banner.svg" alt="lupo0x, builder at buidlers.tech | AI agent infra + dev tooling" width="100%"></a>
 
 # Hey, I'm Luciano 👋
 
